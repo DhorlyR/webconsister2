@@ -1,0 +1,58 @@
+cuerpo{{
+    margen: 0px;: 0px ;
+    }}
+    #encabezamiento#encabezamiento
+    {{
+        ancho: 100%;: 100 %;
+        flotador izquierdo;flotador : izquierda ;
+        alinear texto: centro;- alinear : centro ;
+        color de fondo: azul cielo;- color : azul cielo ;
+    }}
+    #logo#logo
+    {{
+        ancho: 30%;: 30 %;
+        flotador izquierdo;flotador : izquierda ;
+    }}
+    #logo h1#logo h1
+    {{
+        cursor: puntero;: puntero ;
+        transición: 1s;: 1s ;
+        color blanco;: Blanco ;
+        font-family: cambria;- familia : cambria ;
+    }}
+    #logo h1: hover#logo h1: hover
+    {{
+        de color negro;: negro ;
+    }}
+    
+    #menú#menú
+    {{
+        flotador izquierdo;flotador : izquierda ;
+        ancho: 70%;: 70 %;
+    }}
+    #menu ul#menu ul
+    {{
+          margen derecho: 10%;- derecha : 10 %; 
+          relleno: 0;: 0 ; 
+          flotar derecho;flotador : derecho ;
+          alinear texto: centro;- alinear : centro ;
+    }}
+    #menu ul li#menu ul li
+    {{
+    cursor: puntero;: puntero ;
+    tipo-estilo-lista: ninguno;- estilo - tipo : ninguno ;
+    pantalla: bloque en línea;: en línea - bloque ;
+    acolchado: 8px;: 8px ;
+    }}
+    
+    #menu ul li a#menu ul li a
+    {{
+        font-family: cambria;- familia : cambria ;
+    decoración de texto: ninguno;- decoración : ninguna ;
+    color blanco;: Blanco ;
+    tamaño de fuente: 20px;- tamaño : 20px ;
+    }}
+    #menu ul li a: hover#menu ul li a: hover
+    {{
+    de color negro;: negro ;
+    }}
